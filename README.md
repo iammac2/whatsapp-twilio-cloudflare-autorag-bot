@@ -8,7 +8,7 @@ A Cloudflare Worker that connects Twilio WhatsApp with Cloudflare AutoRAG to del
 
 ## 🚀 Features
 
-- Twilio Sandbox integration for WhatsApp
+- Twilio integration for WhatsApp
 - Cloudflare Workers for ultra-low latency
 - AutoRAG integration for contextual, file-backed responses
 - Lightweight and scalable with no server setup
@@ -18,7 +18,7 @@ A Cloudflare Worker that connects Twilio WhatsApp with Cloudflare AutoRAG to del
 
 ## 🛠️ Setup
 
-Requires a Twilio "Try WhatsApp" Sandbox is set up under your Twilio account. 
+Requires a Twilio "Try WhatsApp" Sandbox is set up under your Twilio account (can be uograded later to a paid Twilio number)
 
 ### 1. Clone the repo
 
